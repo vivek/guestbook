@@ -1,0 +1,9 @@
+<settings>
+	<servers>
+   	<server>
+         <id>appengine.google.com</id>
+         <username>GAE_USER</username>
+         <password>GAE_PASSWD</password>
+       </server>
+	</servers>
+</settings>
